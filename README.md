@@ -1,0 +1,2 @@
+# fortytwo
+Trivial package
